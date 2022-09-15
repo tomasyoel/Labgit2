@@ -1,0 +1,1 @@
+Esta es la prueba del pull para eso esfecutamos cambios desde el github en el archivo de texto para luego hacer el pull en el bash y descargar el avance
